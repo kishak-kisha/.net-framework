@@ -1,0 +1,10 @@
+E:\kisha\Lab1_q1\Lab1_q1\bin\Debug\Lab1_q1.exe.config
+E:\kisha\Lab1_q1\Lab1_q1\bin\Debug\Lab1_q1.exe
+E:\kisha\Lab1_q1\Lab1_q1\bin\Debug\Lab1_q1.pdb
+E:\kisha\Lab1_q1\Lab1_q1\obj\Debug\Lab1_q1.csprojAssemblyReference.cache
+E:\kisha\Lab1_q1\Lab1_q1\obj\Debug\Lab1_q1.csproj.CoreCompileInputs.cache
+E:\kisha\Lab1_q1\Lab1_q1\obj\Debug\Lab1_q1.exe
+E:\kisha\Lab1_q1\Lab1_q1\obj\Debug\Lab1_q1.pdb
+E:\kisha\Lab1_q1\Lab1_q1\bin\Debug\lab1.dll
+E:\kisha\Lab1_q1\Lab1_q1\bin\Debug\lab1.pdb
+E:\kisha\Lab1_q1\Lab1_q1\obj\Debug\Lab1_q1.csproj.CopyComplete

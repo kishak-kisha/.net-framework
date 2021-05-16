@@ -1,0 +1,7 @@
+E:\kisha\Lab2Q5\Lab2Q5\bin\Debug\Lab2Q5.exe.config
+E:\kisha\Lab2Q5\Lab2Q5\bin\Debug\Lab2Q5.exe
+E:\kisha\Lab2Q5\Lab2Q5\bin\Debug\Lab2Q5.pdb
+E:\kisha\Lab2Q5\Lab2Q5\obj\Debug\Lab2Q5.csprojAssemblyReference.cache
+E:\kisha\Lab2Q5\Lab2Q5\obj\Debug\Lab2Q5.csproj.CoreCompileInputs.cache
+E:\kisha\Lab2Q5\Lab2Q5\obj\Debug\Lab2Q5.exe
+E:\kisha\Lab2Q5\Lab2Q5\obj\Debug\Lab2Q5.pdb

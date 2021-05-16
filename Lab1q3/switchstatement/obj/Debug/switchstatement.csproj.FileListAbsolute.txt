@@ -1,0 +1,9 @@
+C:\Users\KISHA.K\source\repos\switchstatement\switchstatement\obj\Debug\switchstatement.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\switchstatement\switchstatement\obj\Debug\switchstatement.csproj.CoreCompileInputs.cache
+E:\kisha\Lab1q3\switchstatement\obj\Debug\switchstatement.csprojAssemblyReference.cache
+E:\kisha\Lab1q3\switchstatement\obj\Debug\switchstatement.csproj.CoreCompileInputs.cache
+E:\kisha\Lab1q3\switchstatement\bin\Debug\switchstatement.exe.config
+E:\kisha\Lab1q3\switchstatement\bin\Debug\switchstatement.exe
+E:\kisha\Lab1q3\switchstatement\bin\Debug\switchstatement.pdb
+E:\kisha\Lab1q3\switchstatement\obj\Debug\switchstatement.exe
+E:\kisha\Lab1q3\switchstatement\obj\Debug\switchstatement.pdb

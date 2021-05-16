@@ -1,0 +1,6 @@
+E:\kisha\Lab10q2\Lab10q2\bin\Debug\Lab10q2.exe.config
+E:\kisha\Lab10q2\Lab10q2\bin\Debug\Lab10q2.exe
+E:\kisha\Lab10q2\Lab10q2\bin\Debug\Lab10q2.pdb
+E:\kisha\Lab10q2\Lab10q2\obj\Debug\Lab10q2.csproj.CoreCompileInputs.cache
+E:\kisha\Lab10q2\Lab10q2\obj\Debug\Lab10q2.exe
+E:\kisha\Lab10q2\Lab10q2\obj\Debug\Lab10q2.pdb

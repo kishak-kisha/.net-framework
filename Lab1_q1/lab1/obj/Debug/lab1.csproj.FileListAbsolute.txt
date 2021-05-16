@@ -1,0 +1,6 @@
+E:\kisha\Lab1_q1\lab1\bin\Debug\lab1.dll
+E:\kisha\Lab1_q1\lab1\bin\Debug\lab1.pdb
+E:\kisha\Lab1_q1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+E:\kisha\Lab1_q1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\kisha\Lab1_q1\lab1\obj\Debug\lab1.dll
+E:\kisha\Lab1_q1\lab1\obj\Debug\lab1.pdb

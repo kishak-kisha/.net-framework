@@ -1,0 +1,7 @@
+C:\Users\KISHA.K\source\repos\lab6q3\lab6q3\bin\Debug\lab6q3.exe.config
+C:\Users\KISHA.K\source\repos\lab6q3\lab6q3\bin\Debug\lab6q3.exe
+C:\Users\KISHA.K\source\repos\lab6q3\lab6q3\bin\Debug\lab6q3.pdb
+C:\Users\KISHA.K\source\repos\lab6q3\lab6q3\obj\Debug\lab6q2.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\lab6q3\lab6q3\obj\Debug\lab6q2.csproj.CoreCompileInputs.cache
+C:\Users\KISHA.K\source\repos\lab6q3\lab6q3\obj\Debug\lab6q3.exe
+C:\Users\KISHA.K\source\repos\lab6q3\lab6q3\obj\Debug\lab6q3.pdb

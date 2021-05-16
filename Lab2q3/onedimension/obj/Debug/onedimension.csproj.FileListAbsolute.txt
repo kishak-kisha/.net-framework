@@ -1,0 +1,7 @@
+C:\Users\KISHA.K\source\repos\onedimension\onedimension\bin\Debug\onedimension.exe.config
+C:\Users\KISHA.K\source\repos\onedimension\onedimension\bin\Debug\onedimension.exe
+C:\Users\KISHA.K\source\repos\onedimension\onedimension\bin\Debug\onedimension.pdb
+C:\Users\KISHA.K\source\repos\onedimension\onedimension\obj\Debug\onedimension.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\onedimension\onedimension\obj\Debug\onedimension.csproj.CoreCompileInputs.cache
+C:\Users\KISHA.K\source\repos\onedimension\onedimension\obj\Debug\onedimension.exe
+C:\Users\KISHA.K\source\repos\onedimension\onedimension\obj\Debug\onedimension.pdb

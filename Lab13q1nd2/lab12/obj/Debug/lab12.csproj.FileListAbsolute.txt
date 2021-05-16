@@ -1,0 +1,6 @@
+C:\Users\KISHA.K\source\repos\Lab13q1nd2\lab12\bin\Debug\lab12.dll
+C:\Users\KISHA.K\source\repos\Lab13q1nd2\lab12\bin\Debug\lab12.pdb
+C:\Users\KISHA.K\source\repos\Lab13q1nd2\lab12\obj\Debug\lab12.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\Lab13q1nd2\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Users\KISHA.K\source\repos\Lab13q1nd2\lab12\obj\Debug\lab12.dll
+C:\Users\KISHA.K\source\repos\Lab13q1nd2\lab12\obj\Debug\lab12.pdb

@@ -1,0 +1,12 @@
+C:\Users\KISHA.K\source\repos\Lab7_q1\Lab7_q1\obj\Debug\Lab7_q1.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\Lab7_q1\Lab7_q1\obj\Debug\Lab7_q1.csproj.CoreCompileInputs.cache
+E:\kisha\Lab7_q1\Lab7_q1\bin\Debug\Lab7_q1.exe.config
+E:\kisha\Lab7_q1\Lab7_q1\bin\Debug\Lab7_q1.exe
+E:\kisha\Lab7_q1\Lab7_q1\bin\Debug\Lab7_q1.pdb
+E:\kisha\Lab7_q1\Lab7_q1\bin\Debug\Mylib.dll
+E:\kisha\Lab7_q1\Lab7_q1\bin\Debug\Mylib.pdb
+E:\kisha\Lab7_q1\Lab7_q1\obj\Debug\Lab7_q1.csprojAssemblyReference.cache
+E:\kisha\Lab7_q1\Lab7_q1\obj\Debug\Lab7_q1.csproj.CoreCompileInputs.cache
+E:\kisha\Lab7_q1\Lab7_q1\obj\Debug\Lab7_q1.csproj.CopyComplete
+E:\kisha\Lab7_q1\Lab7_q1\obj\Debug\Lab7_q1.exe
+E:\kisha\Lab7_q1\Lab7_q1\obj\Debug\Lab7_q1.pdb

@@ -1,0 +1,6 @@
+E:\kisha\Lab5\Bank\bin\Debug\Bank.dll
+E:\kisha\Lab5\Bank\bin\Debug\Bank.pdb
+E:\kisha\Lab5\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+E:\kisha\Lab5\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\kisha\Lab5\Bank\obj\Debug\Bank.dll
+E:\kisha\Lab5\Bank\obj\Debug\Bank.pdb

@@ -1,0 +1,14 @@
+C:\Users\KISHA.K\source\repos\twodimension\twodimension\bin\Debug\twodimension.exe.config
+C:\Users\KISHA.K\source\repos\twodimension\twodimension\bin\Debug\twodimension.exe
+C:\Users\KISHA.K\source\repos\twodimension\twodimension\bin\Debug\twodimension.pdb
+C:\Users\KISHA.K\source\repos\twodimension\twodimension\obj\Debug\twodimension.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\twodimension\twodimension\obj\Debug\twodimension.csproj.CoreCompileInputs.cache
+C:\Users\KISHA.K\source\repos\twodimension\twodimension\obj\Debug\twodimension.exe
+C:\Users\KISHA.K\source\repos\twodimension\twodimension\obj\Debug\twodimension.pdb
+E:\kisha\lab2q2\twodimension\bin\Debug\twodimension.exe.config
+E:\kisha\lab2q2\twodimension\bin\Debug\twodimension.exe
+E:\kisha\lab2q2\twodimension\bin\Debug\twodimension.pdb
+E:\kisha\lab2q2\twodimension\obj\Debug\twodimension.csprojAssemblyReference.cache
+E:\kisha\lab2q2\twodimension\obj\Debug\twodimension.csproj.CoreCompileInputs.cache
+E:\kisha\lab2q2\twodimension\obj\Debug\twodimension.exe
+E:\kisha\lab2q2\twodimension\obj\Debug\twodimension.pdb

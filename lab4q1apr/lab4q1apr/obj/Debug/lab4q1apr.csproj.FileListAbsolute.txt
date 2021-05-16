@@ -1,0 +1,2 @@
+C:\Users\KISHA.K\source\repos\lab4q1apr\lab4q1apr\obj\Debug\lab4q1apr.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\lab4q1apr\lab4q1apr\obj\Debug\lab4q1apr.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+E:\kisha\Lab3_q4\Lab3_q4\obj\Debug\Lab1_q4.csproj.CoreCompileInputs.cache
+E:\kisha\Lab3_q4\Lab3_q4\bin\Debug\Lab3_q4.exe.config
+E:\kisha\Lab3_q4\Lab3_q4\bin\Debug\Lab3_q4.exe
+E:\kisha\Lab3_q4\Lab3_q4\bin\Debug\Lab3_q4.pdb
+E:\kisha\Lab3_q4\Lab3_q4\obj\Debug\Lab3_q4.exe
+E:\kisha\Lab3_q4\Lab3_q4\obj\Debug\Lab3_q4.pdb

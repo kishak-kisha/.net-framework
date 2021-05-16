@@ -1,0 +1,7 @@
+C:\Users\KISHA.K\source\repos\Lab8q2\Lab8q2\bin\Debug\Lab8q2.exe.config
+C:\Users\KISHA.K\source\repos\Lab8q2\Lab8q2\bin\Debug\Lab8q2.exe
+C:\Users\KISHA.K\source\repos\Lab8q2\Lab8q2\bin\Debug\Lab8q2.pdb
+C:\Users\KISHA.K\source\repos\Lab8q2\Lab8q2\obj\Debug\Lab8q2.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\Lab8q2\Lab8q2\obj\Debug\Lab8q2.csproj.CoreCompileInputs.cache
+C:\Users\KISHA.K\source\repos\Lab8q2\Lab8q2\obj\Debug\Lab8q2.exe
+C:\Users\KISHA.K\source\repos\Lab8q2\Lab8q2\obj\Debug\Lab8q2.pdb

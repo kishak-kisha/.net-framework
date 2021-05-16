@@ -1,0 +1,7 @@
+C:\Users\KISHA.K\source\repos\Lab13q4\Lab13q4\bin\Debug\Lab13q4.exe.config
+C:\Users\KISHA.K\source\repos\Lab13q4\Lab13q4\bin\Debug\Lab13q4.exe
+C:\Users\KISHA.K\source\repos\Lab13q4\Lab13q4\bin\Debug\Lab13q4.pdb
+C:\Users\KISHA.K\source\repos\Lab13q4\Lab13q4\obj\Debug\Lab13q4.csprojAssemblyReference.cache
+C:\Users\KISHA.K\source\repos\Lab13q4\Lab13q4\obj\Debug\Lab13q4.csproj.CoreCompileInputs.cache
+C:\Users\KISHA.K\source\repos\Lab13q4\Lab13q4\obj\Debug\Lab13q4.exe
+C:\Users\KISHA.K\source\repos\Lab13q4\Lab13q4\obj\Debug\Lab13q4.pdb

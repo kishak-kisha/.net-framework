@@ -1,0 +1,7 @@
+E:\kisha\lab3_q2\lab3_q2\bin\Debug\lab3_q2.exe.config
+E:\kisha\lab3_q2\lab3_q2\bin\Debug\lab3_q2.exe
+E:\kisha\lab3_q2\lab3_q2\bin\Debug\lab3_q2.pdb
+E:\kisha\lab3_q2\lab3_q2\obj\Debug\lab3_q2.csprojAssemblyReference.cache
+E:\kisha\lab3_q2\lab3_q2\obj\Debug\lab3_q2.csproj.CoreCompileInputs.cache
+E:\kisha\lab3_q2\lab3_q2\obj\Debug\lab3_q2.exe
+E:\kisha\lab3_q2\lab3_q2\obj\Debug\lab3_q2.pdb

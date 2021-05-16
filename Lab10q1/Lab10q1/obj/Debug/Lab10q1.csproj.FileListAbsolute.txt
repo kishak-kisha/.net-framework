@@ -1,0 +1,7 @@
+E:\kisha\Lab10q1\Lab10q1\bin\Debug\Lab10q1.exe.config
+E:\kisha\Lab10q1\Lab10q1\bin\Debug\Lab10q1.exe
+E:\kisha\Lab10q1\Lab10q1\bin\Debug\Lab10q1.pdb
+E:\kisha\Lab10q1\Lab10q1\obj\Debug\Lab10q1.csprojAssemblyReference.cache
+E:\kisha\Lab10q1\Lab10q1\obj\Debug\Lab10q1.csproj.CoreCompileInputs.cache
+E:\kisha\Lab10q1\Lab10q1\obj\Debug\Lab10q1.exe
+E:\kisha\Lab10q1\Lab10q1\obj\Debug\Lab10q1.pdb
